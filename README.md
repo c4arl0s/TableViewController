@@ -2,4 +2,6 @@
 
 Table View Notes
 
-![Screen Shot 2019-12-04 at 17 06 54](https://user-images.githubusercontent.com/24994818/70189304-93f01600-16b8-11ea-8195-8bd96f531257.png)
+
+
+![Screen Shot 2020-01-08 at 0 36 02](https://user-images.githubusercontent.com/24994818/71955790-e5575d80-31ae-11ea-9fae-077b995642e9.png)
